@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|e:\\2nd year\\2nd semester\\computer laboratory 2-ii pst22110\\done assignment\\c sharp\\gymms\\gymms\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\gymms\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|e:\\2nd year\\2nd semester\\computer laboratory 2-ii pst22110\\done assignment\\c sharp\\gymms\\gymms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\gymms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\gymms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|e:\\2nd year\\2nd semester\\computer laboratory 2-ii pst22110\\done assignment\\c sharp\\gymms\\gymms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|e:\\2nd year\\2nd semester\\computer laboratory 2-ii pst22110\\done assignment\\c sharp\\gymms\\gymms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\gymms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|e:\\2nd year\\2nd semester\\computer laboratory 2-ii pst22110\\done assignment\\c sharp\\gymms\\gymms\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|e:\\2nd year\\2nd semester\\computer laboratory 2-ii pst22110\\done assignment\\c sharp\\gymms\\gymms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\gymms\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\gymms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B685CD34-842B-4B41-B3FC-E7165EC21DE4}|GymMS\\GymMS.csproj|solutionrelative:gymms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Packages.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Packages.cs",
+              "RelativeDocumentMoniker": "GymMS\\Packages.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Packages.cs",
+              "RelativeToolTip": "GymMS\\Packages.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAA9wKEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:10:12.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Members.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Members.cs",
+              "RelativeDocumentMoniker": "GymMS\\Members.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Members.cs",
+              "RelativeToolTip": "GymMS\\Members.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:10:12.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Members.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Members.cs",
+              "RelativeDocumentMoniker": "GymMS\\Members.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Members.cs",
+              "RelativeToolTip": "GymMS\\Members.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-12T15:10:12.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form3.cs",
+              "RelativeDocumentMoniker": "GymMS\\Form3.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form3.cs",
+              "RelativeToolTip": "GymMS\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:10:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form2.cs",
+              "RelativeDocumentMoniker": "GymMS\\Form2.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form2.cs",
+              "RelativeToolTip": "GymMS\\Form2.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:10:12.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form1.cs",
+              "RelativeDocumentMoniker": "GymMS\\Form1.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form1.cs",
+              "RelativeToolTip": "GymMS\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:10:12.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form2.cs",
+              "RelativeDocumentMoniker": "GymMS\\Form2.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form2.cs",
+              "RelativeToolTip": "GymMS\\Form2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-12T15:10:12.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Payments.cs",
+              "RelativeDocumentMoniker": "GymMS\\Payments.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Payments.cs",
+              "RelativeToolTip": "GymMS\\Payments.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-12T15:10:12.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Packages.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Packages.cs",
+              "RelativeDocumentMoniker": "GymMS\\Packages.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Packages.cs",
+              "RelativeToolTip": "GymMS\\Packages.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-12T15:10:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form1.cs",
+              "RelativeDocumentMoniker": "GymMS\\Form1.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form1.cs",
+              "RelativeToolTip": "GymMS\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-12T15:10:12.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Payments.cs",
+              "RelativeDocumentMoniker": "GymMS\\Payments.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Payments.cs",
+              "RelativeToolTip": "GymMS\\Payments.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAswK0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:10:12.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form3.cs",
+              "RelativeDocumentMoniker": "GymMS\\Form3.cs",
+              "ToolTip": "E:\\2ND YEAR\\2nd semester\\Computer Laboratory 2-II PST22110\\Done assignment\\C sharp\\GymMS\\GymMS\\Form3.cs",
+              "RelativeToolTip": "GymMS\\Form3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-12T15:10:12.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
